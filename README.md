@@ -1,8 +1,8 @@
-E-Commerce Sales Dashboard – Excel Project
+E-Commerce Sales Dashboard – Power BI Project
 
 Project Overview
 
-Developed an interactive E-Commerce Sales Dashboard using Microsoft Excel to analyze sales, quantity, profit, customer performance, and payment methods. The dashboard provides meaningful business insights through interactive charts and filters.
+Developed an interactive E-Commerce Sales Dashboard using Microsoft Power BI to analyze sales, quantity, profit, customer performance, and payment methods. The dashboard provides meaningful business insights through interactive charts and filters.
 
 Key Performance Indicators (KPIs)
 
@@ -54,9 +54,7 @@ Key Business Insights
 
 Tools and Technologies Used
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
+- Microsoft Power BI 
 - Slicers
 - Data Cleaning
 - Data Analysis
